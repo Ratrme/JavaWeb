@@ -22,7 +22,7 @@
     <mappers>
         <mapper resource="com/lxy/mapper/BrandMapper.xml"/>
         <mapper resource="com/lxy/mapper/BrandMapper.xml"/>
-        <mapper resource="lxy/mapper/BrandMapper.xml"/>
+        <mapper resource="com/lxy/mapper/BrandMapper.xml"/>
         <mapper class="com.lxy.mapper.BrandMapper"/>
     </mappers>
 </configuration>
